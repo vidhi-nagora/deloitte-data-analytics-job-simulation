@@ -4,7 +4,7 @@ Completed Deloitte's Data Analytics Job Simulation hosted on Forage by solving t
 
 ## Tasks Completed
 
-### 📊 Task 1 – Manufacturing Telemetry Analysis (Tableau)(./Task%201%20-%20Manufacturing%20Telemetry%20Analysis)
+### 📊 Task 1 – Manufacturing Telemetry Analysis (Tableau)
 - Analyzed manufacturing telemetry data from four factories.
 - Created calculated fields to measure machine downtime.
 - Built interactive dashboards and bar charts in Tableau.
