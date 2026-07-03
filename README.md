@@ -29,7 +29,6 @@ Completed Deloitte's Data Analytics Job Simulation hosted on Forage by solving t
 - Business Analytics
 - Problem Solving
 
-📜 **Certificate:** 
 ## 📜 Certificate
 
 ![Deloitte Data Analytics Job Simulation Certificate](Deloitte_Data_Analytics_Job_Simulation_Certificate.png)
